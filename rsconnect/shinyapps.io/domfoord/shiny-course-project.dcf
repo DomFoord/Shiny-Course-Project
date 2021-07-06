@@ -1,0 +1,11 @@
+name: shiny-course-project
+title:
+username:
+account: domfoord
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4358921
+bundleId: 4793480
+url: https://domfoord.shinyapps.io/shiny-course-project/
+when: 1625606013.6909
+lastSyncTime: 1625606013.6909
