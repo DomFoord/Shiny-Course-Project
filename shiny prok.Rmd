@@ -2,7 +2,7 @@
 title: "Shiny Project"
 author: "Dom Foord"
 date: "06/07/2021"
-output: html_document
+output: slidy_presentation
 ---
 
 ```{r setup, include=FALSE}
